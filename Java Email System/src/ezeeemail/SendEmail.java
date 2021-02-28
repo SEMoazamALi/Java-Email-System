@@ -25,8 +25,7 @@ public class SendEmail implements User {
     private String subject;
     private String msg;
     private File f;
-//    public String UserName="moazamshahid555@gmail.com";
-//    public String Password="Mo1z1m.1li@";
+
      String host = "pop.gmail.com";
 
      SendEmail( String TO){
